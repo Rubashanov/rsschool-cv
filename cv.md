@@ -52,3 +52,10 @@ body { font-family: sans-serif; line-height: 1.5; }
 - Ukraine C2;
 - Russian C2;
 - English A2;
+
+---
+
+## PET PROJECT
+
+**Exchange Rates** A small project that displays the current exchange rate of PrivatBank. Tech
+stack: HTML, CSS, JavaScript, API.
