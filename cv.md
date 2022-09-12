@@ -29,7 +29,7 @@ devote time to self education. Since I am just starting my journey in IT.
 
 ---
 
-## Code Examples )(CSS)
+## Code Examples (CSS)
 
 body { font-family: sans-serif; line-height: 1.5; }
 
